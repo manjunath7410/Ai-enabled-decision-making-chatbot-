@@ -1,0 +1,6 @@
+{
+  "name": "DecideAI",
+  "description": "AI-Enabled Decision Support Chatbot helping users clarify problems, evaluate trade-offs, and make informed choices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
